@@ -1,0 +1,13 @@
+earthengine-api
+streamlit
+folium
+streamlit-folium
+geopandas
+shapely
+numpy
+pandas
+rasterio
+scikit-learn
+altair
+requests
+urllib3

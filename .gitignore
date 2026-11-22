@@ -1,0 +1,17 @@
+# Python & Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets (protect sensitive keys)
+.streamlit/secrets.toml
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
